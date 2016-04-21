@@ -1,0 +1,2 @@
+# blogsafelink
+untuk link bloger
